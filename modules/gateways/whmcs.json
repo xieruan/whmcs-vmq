@@ -1,0 +1,30 @@
+{
+  "schema": "1.1",
+  "type": "whmcs-gateways",
+  "name": "vmq",
+  "license": "GPL3.0",
+  "category": "payments",
+  "description": {
+    "name": "V免签",
+    "tagline": "V免签,0手续费.",
+    "long": "emmm",
+    "features": [
+      "0手续费,收款直接到账你的钱包"]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https://github.com/xieruan/whmcs-vmq",
+    "learn_more": "https://www.whmcscn.com",
+    "email": "support@whmcs.com",
+    "support_url": "https://www.whmcscn.com",
+    "docs_url": "https://github.com/szvone/vmqphp"
+  },
+  "authors": [
+    {
+      "name": "xieruan",
+      "homepage": "https://github.com/xieruan"
+    }
+  ]
+}
